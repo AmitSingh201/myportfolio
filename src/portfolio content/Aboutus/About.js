@@ -21,7 +21,8 @@ export default function About() {
         <p className="about-sub">
           Its a long established fact that a render will be about me
         </p>
-        <p className="about-desc">
+        <p className="about-desc"> this p is contain a info about the user
+
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus,
           aspernatur? Ipsa, facilis? Obcaecati doloremque repellat est ratione
           id ipsam expedita, veniam laudantium odit porro reiciendis iste dolore
